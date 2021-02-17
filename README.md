@@ -5,7 +5,7 @@ Repository for personal CIS350 assignments
 
 ### Interests
 - Watching/Playing Sports
-- PLaying Video Games
+- Playing Video Games
 - Working Out
 
 ### Technical Background
